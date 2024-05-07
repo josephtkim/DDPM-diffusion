@@ -10,6 +10,7 @@ Trained on the Flowers102 dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers
 ## Results:
 ### Settings
 epochs: 200  
+groups in group norm: 8  
 batch size: 64  
 image size: 64  
 beta_1: 0.0001  
