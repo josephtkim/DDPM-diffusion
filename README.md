@@ -22,8 +22,10 @@ optimizer Adam (default values)
 
 ![final](./experiment1.png)
 
+![animation](./experiment1.gif)
 
-|   |         | ResNet-34 |  ResNet-50 |
-|---|------------------------|----------------|--------------------------|
-|   | # of Trainable Params  | ![final](./experiment1.png) | ![final](./experiment1.png) |
-|   | Test Accuracy | ![animation](./experiment1.gif) |  |
+
+|         | ResNet-34 |  ResNet-50 |
+|------------------------|----------------|--------------------------|
+| # of Trainable Params  | ![final](./experiment1.png) | ![final](./experiment1.png) |
+| Test Accuracy |  |  |
