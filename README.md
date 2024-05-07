@@ -20,4 +20,6 @@ learning rate: 0.0002
 loss function: Huber loss  
 optimizer Adam (default values)
 
+![final](./experiment1.png)
+
 ![animation](./experiment1.gif)
