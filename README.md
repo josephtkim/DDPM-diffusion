@@ -3,7 +3,7 @@ DDPM (Denoising Diffusion Probabilistic Models) implemented in PyTorch.
 
 Based on the paper: https://arxiv.org/abs/2006.11239.
 
-Inspired by the original implementation: https://github.com/hojonathanho/diffusion/tree/master and the pytorch implementation by Phil Wang: https://github.com/lucidrains/denoising-diffusion-pytorch.
+Inspired by the original implementation: https://github.com/hojonathanho/diffusion/tree/master and the PyTorch implementation by Phil Wang: https://github.com/lucidrains/denoising-diffusion-pytorch.
 
 Trained on the following datasets:  
 Smithsonian Butterflies subset: https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset  
@@ -32,8 +32,3 @@ Epoch 1600             |  Denoising Process
 Epoch 1600             |  Denoising Process
 :-------------------------:|:-------------------------:
 ![flowers102](./flowers102.png)  |  ![flowers102-steps](flowers102.gif)
-
-<br />
-<br />
-<br />
-<br />
