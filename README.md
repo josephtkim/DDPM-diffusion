@@ -25,9 +25,9 @@ timesteps: 1000
 #### Smithsonian Butterflies subset
 Epoch 1600             |  Denoising Process
 :-------------------------:|:-------------------------:
-![butterflies](./butterflies.png)  |  ![butterflies-steps](butterflies.gif)
+![butterflies](./images/butterflies.png)  |  ![butterflies-steps](./images/butterflies.gif)
 
 #### Oxford Flowers 102  
 Epoch 1600             |  Denoising Process
 :-------------------------:|:-------------------------:
-![flowers102](./flowers102.png)  |  ![flowers102-steps](flowers102.gif)
+![flowers102](./images/flowers102.png)  |  ![flowers102-steps](./images/flowers102.gif)
