@@ -9,7 +9,6 @@ Trained on the following datasets:
 Smithsonian Butterflies subset: https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset  
 Oxford Flowers 102: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
-## Results
 ### Settings
 epochs: 1600  
 batch size: 32  
