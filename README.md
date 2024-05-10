@@ -22,7 +22,7 @@ beta_T: 0.02
 timesteps: 1000  
 
 ### Results
-#### Smithsonian Butterflies  
+#### Smithsonian Butterflies subset
 Epoch 1600             |  Denoising Process
 :-------------------------:|:-------------------------:
 ![butterflies](./butterflies.png)  |  ![butterflies-steps](butterflies.gif)
