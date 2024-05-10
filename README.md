@@ -6,7 +6,7 @@ Based on the paper: https://arxiv.org/abs/2006.11239.
 Inspired by the original implementation: https://github.com/hojonathanho/diffusion/tree/master and the pytorch implementation by Phil Wang: https://github.com/lucidrains/denoising-diffusion-pytorch.
 
 Trained on the following datasets:  
-Smithsonian Butterflies: https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset  
+Smithsonian Butterflies subset: https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset  
 Oxford Flowers 102: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 ## Results
@@ -23,13 +23,10 @@ beta_T: 0.02
 timesteps: 1000  
 
 ### Results
-**Butterflies**  
-<img src="./butterflies.gif" width="480" alt="Butterflies" loop=infinite/>
+**Smithsonian Butterflies**  
+<img src="./butterflies.gif" width="480" alt="Butterflies"/><br />
+<img src="./butterflies.png" width="480" alt="Butterflies"/>
 
-
-![butterflies](./butterflies.gif)
-![butterflies](./butterflies.png)
-
-**Flowers 102**  
-![flowers102](./flowers102.gif)
-![flowers102](./flowers102.png)
+**Oxford Flowers 102**  
+<img src="./flowers102.gif" width="480" alt="Flowers102"/><br />
+<img src="./flowers102.png" width="480" alt="Flowers102"/>
