@@ -23,10 +23,17 @@ beta_T: 0.02
 timesteps: 1000  
 
 ### Results
-**Smithsonian Butterflies**  
-<img src="./butterflies.gif" width="480" alt="Butterflies"/><br />
-<img src="./butterflies.png" width="480" alt="Butterflies"/>
+#### Smithsonian Butterflies  
+Epoch 1600             |  Denoising Process
+:-------------------------:|:-------------------------:
+![butterflies](./butterflies.png)  |  ![butterflies-steps](butterflies.gif)
 
-**Oxford Flowers 102**  
-<img src="./flowers102.gif" width="480" alt="Flowers102"/><br />
-<img src="./flowers102.png" width="480" alt="Flowers102"/>
+#### Oxford Flowers 102  
+Epoch 1600             |  Denoising Process
+:-------------------------:|:-------------------------:
+![flowers102](./flowers102.png)  |  ![flowers102-steps](flowers102.gif)
+
+<br />
+<br />
+<br />
+<br />
